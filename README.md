@@ -1,6 +1,6 @@
 # Running-Piggy
 
-Running Piggy is a 2D adventure game.
+Running Piggy is a 2D adventure game created in Unity2D with C#.
 
 <strong>How to play:</strong>
 - Move main player by using the up, down, left, right keys 
